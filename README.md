@@ -1,2 +1,3 @@
 # Dynamic-Linux-Image-Maker
-Add randomized vulnerabilities
+Add randomized vulnerabilities to a Linux Image
+***Under Construction***
